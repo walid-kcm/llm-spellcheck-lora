@@ -1,4 +1,4 @@
-# LoRA Fine-tuning (4-bit) — French Spelling Correction (Kaggle 2×T4)
+# LoRA Fine-tuning (4-bit) — Spelling Correction (Kaggle 2×T4)
 
 This repo contains an end-to-end notebook to fine-tune an instruction-tuned LLM for **Spelling correction** using **LoRA** (PEFT) with **4-bit quantization**.  
 Training was run on **Kaggle** using **2× NVIDIA T4 GPUs**.
